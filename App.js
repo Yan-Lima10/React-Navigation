@@ -27,7 +27,7 @@ export default function App() {
           name="Home"
           component={Tabs}
           options={{
-            title: "Bem-Vindo(a)",
+            title: "Bem-Vindos",
             headerStyle: {
               backgroundColor: "#000",
             },
